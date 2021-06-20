@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.My web app.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../:\Matin\myProject\My web app\My web app\.idea\.idea.My web app\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

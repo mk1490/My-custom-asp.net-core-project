@@ -1,0 +1,176 @@
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.csproj.AssemblyReference.cache
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.GeneratedMSBuildEditorConfig.editorconfig
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.AssemblyInfoInputs.cache
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.AssemblyInfo.cs
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.csproj.CoreCompileInputs.cache
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.MvcApplicationPartsAssemblyInfo.cs
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.MvcApplicationPartsAssemblyInfo.cache
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\appsettings.Development.json
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\appsettings.json
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.StaticWebAssets.xml
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.exe
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.deps.json
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.runtimeconfig.json
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.runtimeconfig.dev.json
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ref\My web app.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\My web app.pdb
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Google.Protobuf.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Humanizer.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\dotnet-ef.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\MySql.Data.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Zstandard.Net.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\MySql.Data.EntityFrameworkCore.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\MySqlConnector.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\staticwebassets\My web app.StaticWebAssets.Manifest.cache
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\staticwebassets\My web app.StaticWebAssets.xml
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\scopedcss\bundle\My web app.styles.css
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.RazorTargetAssemblyInfo.cache
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.csproj.CopyComplete
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.dll
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\ref\My web app.dll
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.pdb
+F:\Matin\myProject\My web app\My web app\My web app\obj\Debug\net5.0\My web app.genruntimeconfig.cache
+F:\Matin\myProject\My web app\My web app\My web app\bin\Debug\net5.0\BCrypt.Net-Next.dll
